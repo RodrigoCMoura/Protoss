@@ -54,8 +54,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Codado com muita alegria e filhas no colo ♥ by [Tiago de Abreu](http://atriostech.com.br/tiago/) :wave: 
-[![Linkedin Badge](https://img.shields.io/badge/-tiagodeabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)](https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)
-[![Gmail Badge](https://img.shields.io/badge/-devtiagoabreu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devtiagoabreu@gmail.com)](mailto:devtiagoabreu@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-RodrigoMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-moura-1b7652a2)](https://www.linkedin.com/in/rodrigo-moura-1b7652a2)
+[![Gmail Badge](https://img.shields.io/badge/-romoura1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romoura1994@gmail.com)](mailto:romoura1994@gmail.com)
 
 
